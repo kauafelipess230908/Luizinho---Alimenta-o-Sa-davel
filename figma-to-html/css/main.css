@@ -12,3 +12,14 @@ body {
   opacity: 1;
 }
 @media screen and max-width: 1024px
+
+body {
+  font-size: 14px;
+}
+.v1:7 {
+  color: #ffffff;
+  font-family: Inter;
+  font-weight: Regular;
+  font-size: 20px;
+  opacity: 1;
+}
